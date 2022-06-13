@@ -5,9 +5,9 @@ public class Caneta {
 
     public String modelo;
     public String cor;
-    public float ponta;
+    private float ponta;
     public int carga;
-    public boolean tampada;
+    private boolean tampada;
 
     public void status() {
         System.out.println("Modelo: " + this.modelo);
@@ -18,7 +18,7 @@ public class Caneta {
     }
 
     public void rabiscar() {
-        if (tampada == true) {
+        if (tampada) {
             System.out.println("ERRO! Não posso rabiscar");
         } else {
             System.out.println("Estou Rabiscando");
