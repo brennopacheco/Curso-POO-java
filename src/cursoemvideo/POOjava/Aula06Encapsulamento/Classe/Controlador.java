@@ -1,4 +1,4 @@
-package cursoemvideo.POOjava.Aula06.Classe;
+package cursoemvideo.POOjava.Aula06Encapsulamento.Classe;
 
 public interface Controlador {
     public abstract void ligar();

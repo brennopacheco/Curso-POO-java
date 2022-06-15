@@ -1,6 +1,6 @@
-package cursoemvideo.POOjava.Aula03.Objeto;
+package cursoemvideo.POOjava.Aula03Visibilidade.Objeto;
 
-import cursoemvideo.POOjava.Aula03.Classe.Caneta;
+import cursoemvideo.POOjava.Aula03Visibilidade.Classe.Caneta;
 
 public class CanetaTest {
     public static void main(String[] args) {

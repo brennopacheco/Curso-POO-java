@@ -1,6 +1,6 @@
-package cursoemvideo.POOjava.Aula06.Objeto;
+package cursoemvideo.POOjava.Aula06Encapsulamento.Objeto;
 
-import cursoemvideo.POOjava.Aula06.Classe.ControleRemoto;
+import cursoemvideo.POOjava.Aula06Encapsulamento.Classe.ControleRemoto;
 
 public class ControleRemotoTest {
     public static void main(String[] args) {

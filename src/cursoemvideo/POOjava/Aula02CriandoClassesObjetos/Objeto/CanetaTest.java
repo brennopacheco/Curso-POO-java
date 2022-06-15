@@ -1,6 +1,6 @@
-package cursoemvideo.POOjava.Aula02.Objeto;
+package cursoemvideo.POOjava.Aula02CriandoClassesObjetos.Objeto;
 
-import cursoemvideo.POOjava.Aula02.Classe.Caneta;
+import cursoemvideo.POOjava.Aula02CriandoClassesObjetos.Classe.Caneta;
 
 public class CanetaTest {
     public static void main(String[] args) {

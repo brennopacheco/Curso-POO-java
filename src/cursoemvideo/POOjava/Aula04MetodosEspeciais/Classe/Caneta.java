@@ -1,4 +1,4 @@
-package cursoemvideo.POOjava.Aula04.Classe;
+package cursoemvideo.POOjava.Aula04MetodosEspeciais.Classe;
 
 public class Caneta {
     // criar Classe caneta

@@ -1,13 +1,13 @@
-package cursoemvideo.POOjava.Aula03.Classe;
+package cursoemvideo.POOjava.Aula02CriandoClassesObjetos.Classe;
 
 public class Caneta {
     // criar Classe caneta
 
     public String modelo;
     public String cor;
-    private float ponta;
+    public float ponta;
     public int carga;
-    private boolean tampada;
+    public boolean tampada;
 
     public void status() {
         System.out.println("Modelo: " + this.modelo);
