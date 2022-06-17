@@ -7,7 +7,7 @@ public class Bolsista extends Aluno {
         System.out.println("Renovando bolsa de " + getNome());
     }
 
-    @Override
+    @Override // irá sobrepor nosso método em Aluno
     public void pagarMensalidade() {
         System.out.println(getNome() + " é bolsista! Pagamento facilitado");
     }

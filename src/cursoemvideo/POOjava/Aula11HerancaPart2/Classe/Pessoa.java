@@ -5,7 +5,8 @@ public abstract class Pessoa { // Classe abstrata não pode ser instânciada no 
     protected int idade;
     protected char sexo;
 
-    public final void fazerAniversario() { // final nao deixa o método ser sobreposto pelas subclasses
+    public final void fazerAniversario() {
+        // final não deixa o método ser sobreposto pelas subclasses (também podem ser usados em atributos)
         this.idade++;
     }
 
